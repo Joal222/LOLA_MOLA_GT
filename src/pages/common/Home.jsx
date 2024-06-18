@@ -12,7 +12,7 @@ export const Home = () => {
   });
 
   const mostrtarToas = () => {
-    toast.warning("Este es una alerta");
+    toast.success("Toy bien pendejo");
   };
 
   if (isPending) {
